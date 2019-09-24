@@ -99,3 +99,5 @@ const Intro = () => {
 }
 
 render(<Intro />)
+
+module.exports = Intro

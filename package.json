@@ -6,7 +6,7 @@
     "mikqi": "src/cli.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava"
   },
   "keywords": [],
   "author": "",
@@ -24,6 +24,7 @@
   "devDependencies": {
     "ava": "^2.4.0",
     "eslint": "^6.4.0",
-    "eslint-plugin-react": "^7.14.3"
+    "eslint-plugin-react": "^7.14.3",
+    "ink-testing-library": "^1.0.2"
   }
 }
