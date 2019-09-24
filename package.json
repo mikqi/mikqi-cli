@@ -1,0 +1,29 @@
+{
+  "name": "mikqi-cli",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "mikqi": "src/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "import-jsx": "^3.0.0",
+    "ink": "^2.3.0",
+    "ink-box": "^1.0.0",
+    "ink-link": "^1.0.0",
+    "ink-select-input": "^3.1.2",
+    "meow": "^5.0.0",
+    "open": "^6.4.0",
+    "react": "^16.9.0"
+  },
+  "devDependencies": {
+    "ava": "^2.4.0",
+    "eslint": "^6.4.0",
+    "eslint-plugin-react": "^7.14.3"
+  }
+}
