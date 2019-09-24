@@ -26,5 +26,8 @@
     "eslint": "^6.4.0",
     "eslint-plugin-react": "^7.14.3",
     "ink-testing-library": "^1.0.2"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
