@@ -1,5 +1,5 @@
 {
-  "name": "mikqi-cli",
+  "name": "@mikqi/cli",
   "version": "1.0.0",
   "description": "Mikqi CLI",
   "bin": {
@@ -24,6 +24,7 @@
     "email": "muhammad.rivki@live.com",
     "url": "http://this.rivki.id"
   },
+  "repository": "git://github.com/mikqi/mikqi.git",
   "homepage": "https://github.com/mikqi/mikqi",
   "bugs": "https://github.com/mikqi/mikqi/issues",
   "license": "MIT",
