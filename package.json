@@ -1,15 +1,31 @@
 {
   "name": "mikqi-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "Mikqi CLI",
   "bin": {
     "mikqi": "src/cli.js"
   },
+  "main": "src/cli.js",
+  "files": [
+    "src"
+  ],
   "scripts": {
     "test": "ava"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "cli",
+    "cli-app",
+    "mikqi",
+    "react",
+    "ink"
+  ],
+  "author": {
+    "name": "Muhammad Rivki",
+    "email": "muhammad.rivki@live.com",
+    "url": "http://this.rivki.id"
+  },
+  "homepage": "https://github.com/mikqi/mikqi",
+  "bugs": "https://github.com/mikqi/mikqi/issues",
   "license": "MIT",
   "dependencies": {
     "import-jsx": "^3.0.0",
